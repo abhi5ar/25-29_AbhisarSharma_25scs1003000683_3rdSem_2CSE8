@@ -3,10 +3,15 @@ CodSoft C++ Programming Virtual Internship:
 Internship Overview:
 This repository contains the work completed during my C++ Programming Virtual Internship at CodSoft.
 The internship provided practical experience in C++ programming, problem-solving, logical thinking, and developing console-based applications.
+
 Intern: Abhisar Sharma
+
 Course: B.Tech CSE (AIML)
+
 Roll Number: 25SCS1003000683
+
 Internship Organization: CodSoft
+
 Internship Duration: 10 August 2026 – 10 September 2026.
 
 Projects Completed:
@@ -84,7 +89,7 @@ Vectors and strings
 Random number generation
 Console-based application development
 Basic testing and debugging
-GitHub repository management
+GitHub repository management.
 
 Internship Offer Letter and Certificate:
 
@@ -93,7 +98,9 @@ The internship offer letter and certificate is included in this repository.
 
 Author:
 Abhisar Sharma
+
 B.Tech CSE (AIML)
+
 IILM University, Greater Noida
 
 Acknowledgement:
