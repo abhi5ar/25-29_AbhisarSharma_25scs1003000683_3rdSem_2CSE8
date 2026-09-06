@@ -70,13 +70,21 @@ Git & GitHub
 Command Line / Console
 
 Repository Contents:
+
 ├── NumberGuessingGame.cpp
+
 ├── SimpleCalculator.cpp
+
 ├── TO-DO-LIST.cpp
+
 ├── Internship Report
+
 ├── Internship PPT
+
 ├── Internship Offer Letter
+
 ├── Internship Certificate
+
 └── README.md
 
 Learning Outcomes:
