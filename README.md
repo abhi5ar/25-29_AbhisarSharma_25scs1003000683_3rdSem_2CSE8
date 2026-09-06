@@ -1,52 +1,104 @@
-CodSoft C++ Programming Internship
+CodSoft C++ Programming Virtual Internship:
+
 Internship Overview:
-
-This repository contains the C++ programming tasks completed during the CodSoft virtual internship. The internship focused on strengthening C++ programming fundamentals through practical, console-based applications involving user input, programming logic, conditions, loops, functions, vectors, and switch-case statements.
-
+This repository contains the work completed during my C++ Programming Virtual Internship at CodSoft.
+The internship provided practical experience in C++ programming, problem-solving, logical thinking, and developing console-based applications.
 Intern: Abhisar Sharma
-
 Course: B.Tech CSE (AIML)
+Roll Number: 25SCS1003000683
+Internship Organization: CodSoft
+Internship Duration: 10 August 2026 – 10 September 2026.
 
-Organization: CodSoft
+Projects Completed:
 
-Duration: 10 August 2026 - 10 September 2026.
+Task 1 – Number Guessing Game
+A C++ console-based number guessing game that generates a random number between 1 and 100 and asks the user to guess it. The program provides feedback indicating whether the guess is too high or too low until the correct number is guessed.
+Key Concepts Used:
+C++ Input/Output
+Random Number Generation
+rand() and srand()
+do-while Loop
+Conditional Statements
+if / else
+User Input
+Attempts Tracking
 
-Projects Completed
-1. Number Guessing Game
-A console-based game in which the program generates a random number between 1 and 100 and asks the user to guess it. After each attempt, the program provides feedback indicating whether the guess is too high or too low until the correct number is found.
-Key C++ concepts used: - Random number generation using rand() and srand() - do-while loop - if-else conditions - User input/output - Attempts counter.
+Task 2 – Simple Calculator
+A C++ console-based calculator that allows the user to enter two numbers and select an arithmetic operation.
+Operations:
+Addition
+Subtraction
+Multiplication
+Division
+Key Concepts Used:
+Variables
+Arithmetic Operators
+User Input/Output
+switch-case
+Conditional Statements
+Basic Error Handling
 
-2. Simple Calculator
-A basic console calculator that accepts two numbers and allows the user to select an arithmetic operation. It performs addition, subtraction, multiplication, or division and displays the result.
-Key C++ concepts used: - User input and output - switch-case - Arithmetic operators - Conditional validation - Division-by-zero handling.
+Task 3 – To-Do List
+A simple console-based task management application that allows users to manage their daily tasks.
+Features:
+Add Task
+View Tasks
+Mark Task as Completed
+Remove Task
+Exit
+Key Concepts Used:
+Vectors
+Strings
+Functions
+Loops
+Conditional Statements
+User Input/Output
+Task Status Management
+Basic CRUD Operations
 
-3. To-Do List
-A simple console-based task manager that allows users to manage a list of tasks. Users can add tasks, view tasks and their status, mark tasks as completed, and remove tasks from the list.
-Key C++ concepts used: - Task management using a collection of tasks - Functions - Loops and conditions - User input/output - Task status handling.
+Technologies Used:
+C++
+C++ Standard Library
+Visual Studio Code
+G++ Compiler
+Git & GitHub
+Command Line / Console
 
-Technologies and Tools
-C++ -- Programming language used for all three projects
-Visual Studio Code -- Code editing and program execution
-GCC / G++ -- C++ compiler
-MSYS2 UCRT64 -- Windows development environment/toolchain
-GitHub -- Source-code storage and submission.
-
-Development Approach
-The projects followed a simple development workflow:
-Understand the requirements and expected input/output.
-Design the program flow and select appropriate C++ concepts.
-Implement the source code.
-Compile the programs using G++.
-Test the programs with different user inputs.
-Organize and submit the source code through GitHub.
-
-Repository Structure/
-25-29_AbhisarSharma_25scs1003000683_3rdSem_2CSE8
+Repository Contents:
 ├── NumberGuessingGame.cpp
 ├── SimpleCalculator.cpp
-└── TO-DO-LIST.cpp
-GitHub Repository
-https://github.com/abhi5ar/25-29_AbhisarSharma_25scs1003000683_3rdSem_2CSE8
+├── TO-DO-LIST.cpp
+├── Internship Report
+├── Internship PPT
+├── Internship Offer Letter
+├── Internship Certificate
+└── README.md
 
-Internship Outcome:
-The internship provided practical experience in developing small C++ applications from task requirements. The completed projects helped strengthen understanding of programming fundamentals, problem-solving, user interaction, compilation, testing, and source-code organization.
+Learning Outcomes:
+Through this internship, I gained practical experience in:
+C++ programming fundamentals
+Problem-solving and logical thinking
+Conditional statements and loops
+Functions and modular programming
+Vectors and strings
+Random number generation
+Console-based application development
+Basic testing and debugging
+GitHub repository management
+
+Internship Offer Letter and Certificate:
+
+I was selected for the C++ Programming Virtual Internship at CodSoft, scheduled from 10 August 2026 to 10 September 2026.
+The internship offer letter and certificate is included in this repository.
+
+Author:
+Abhisar Sharma
+B.Tech CSE (AIML)
+IILM University, Greater Noida
+
+Acknowledgement:
+I sincerely thank CodSoft for providing this internship opportunity and practical exposure to C++ programming and project development.
+I also thank the faculty members of the School of Computer Science and Engineering, IILM University, for their guidance and support.
+
+Repository:
+This repository contains the source code, internship documentation,presentation, offer letter and certificate related to my CodSoft C++ Programming Virtual Internship.
