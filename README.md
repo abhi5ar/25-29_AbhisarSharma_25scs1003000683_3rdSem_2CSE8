@@ -4,8 +4,11 @@ Internship Overview:
 This repository contains the C++ programming tasks completed during the CodSoft virtual internship. The internship focused on strengthening C++ programming fundamentals through practical, console-based applications involving user input, programming logic, conditions, loops, functions, vectors, and switch-case statements.
 
 Intern: Abhisar Sharma
+
 Course: B.Tech CSE (AIML)
+
 Organization: CodSoft
+
 Duration: 10 August 2026 - 10 September 2026.
 
 Projects Completed
